@@ -1,0 +1,3 @@
+Links are automatically detected: https://modrinth.com/
+
+[Markdown Links](https://youtu.be/v1POP-m76ac) are supported.
