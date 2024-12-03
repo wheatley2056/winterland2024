@@ -4,7 +4,7 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1.8",
+      "id": "1.8.1",
       "releasedAt": 1696299585000, 
       "promotions": {
         "downloads": {
